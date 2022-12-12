@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Abhishek Kumar.</h1>
-- 😄 I'm a pre-final year student. <br />
+- 😄 I'm a final year student. <br />
 - 🤔 I’m looking for Internship in domain which matches my skills.
 
 <br />
