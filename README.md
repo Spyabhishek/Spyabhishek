@@ -1,19 +1,21 @@
-# 👋 Hi there! ☕️
+# Hi, I'm Abhishek Kumar 👋
 
-Hey there! I'm **Abhishek Kumar**, a **full-stack developer** on a mission to create awesome software. Join me as we journey through the MERN wilderness, exploring the depths of web development and beyond!
+Software Engineer · M.Tech (Cloud Computing), IIT Patna · 2+ years building full-stack systems
 
-## About Me 💻
+I architect enterprise backends with Spring Boot & Java, build responsive frontends with Angular & React, and automate deployments with Docker & Jenkins.
 
-I'm passionate about crafting robust back-end and front-end systems and elegant user interfaces. When I'm not coding, you'll find me hiking, or lost in a spritual or Virtual world.
+### Tech Stack
 
-## What You'll Find Here 🌱
+**Languages:** Java · TypeScript · JavaScript · C++ · SQL
 
-Explore my collection of projects, from sleek web apps to powerful back-end services. Whether you're a seasoned developer or just starting out, there's something here for you.
+**Frontend:** Angular · React · Angular Material · Astro · Tailwind CSS
 
-## Let's Connect and Code Together! 🚀
+**Backend:** Spring Boot · Node.js · Express.js · Appwrite · RESTful APIs
 
-Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/iamabhshek/)
-- [Twitter](https://twitter.com/iamabhshekspy)
-  
-### Let's write awesome code and make a positive impact together! ☕️🚀
+**DevOps & DB:** Docker · Jenkins · PostgreSQL · MongoDB · Git · CI/CD
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamabhshek/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=astro&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kabhishek2023@gmail.com)
