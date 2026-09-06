@@ -26,22 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔄 **[CI/CD DevOps Pipeline](https://github.com/Spyabhishek/ci-cd-Devops)**  
-  *Automated software delivery pipeline for Spring Boot — includes Maven builds, SonarQube quality gate, Trivy security scanning, Docker Hub packaging, and automated SSH deployment to Oracle Cloud VM with health checks and rollback.*
-
-- 🏢 **Enterprise CRM & Management Portal**  
-  *Enterprise system with role-based access control (RBAC), data visualization with Angular Material dashboards, and high-performance Spring Boot microservices.*
-
-- 🛍️ **Full-Stack E-Commerce Platform**  
-  *End-to-end shopping application featuring product categorization, search, JWT-secured auth, shopping cart, and order workflows built with React, Node.js, Express, and MongoDB.*
-
-- ⚡ **Full-Stack SaaS Platform with Appwrite**  
-  *Modern SaaS platform integrating real-time database synchronization, authenticated user sessions, and containerized Docker environments.*
-
----
-
 ### 📊 GitHub Activity
 
 <p align="left">
